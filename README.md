@@ -7,9 +7,11 @@ Realize uma análise completa usando Python e a biblioteca Pandas numa base de d
 
 ### Etapas
 a. Obter base de dados: Faça download da base de dados; <br>
-b. Importação e Limpeza: Importe os dados para um DataFrame do Pandas, limpe os dados e trate valores ausentes; <br>
-c. Análise Descritiva: Realize uma análise descritiva dos dados, calculando estatísticas básicas e identificando tendências; <br>
+<br> b. Importação e Limpeza: Importe os dados para um DataFrame do Pandas, limpe os dados e trate valores ausentes; <br>
+<br>c. Análise Descritiva: Realize uma análise descritiva dos dados, calculando estatísticas básicas e identificando tendências; <br>
 
-d. Modelagem de Regressão Linear: Ajuste um modelo de regressão linear aos dados para tentar prever o preço do aluguel em uma determinada área; <br>
-e. Visualização de Dados: Crie visualizações gráficas usando bibliotecas como Matplotlib ou Seaborn para representar os dados; <br>
-f. Conclusões: Tire conclusões a partir das análises realizadas e apresente os resultados em um relatório. <br>
+<br>d. Modelagem de Regressão Linear: Ajuste um modelo de regressão linear aos dados para tentar prever o preço do aluguel em uma determinada área; <br>
+<br>e. Visualização de Dados: Crie visualizações gráficas usando bibliotecas como Matplotlib ou Seaborn para representar os dados; <br>
+<br>f. Conclusões: Tire conclusões a partir das análises realizadas e apresente os resultados em um relatório. <br>
+<br>
+Trabalhando nisso...
